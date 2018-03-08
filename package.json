@@ -1,0 +1,25 @@
+{
+  "name": "hw3_rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "receive.js",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samleung314/HW3_rabbitmq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samleung314/HW3_rabbitmq/issues"
+  },
+  "homepage": "https://github.com/samleung314/HW3_rabbitmq#readme"
+}
